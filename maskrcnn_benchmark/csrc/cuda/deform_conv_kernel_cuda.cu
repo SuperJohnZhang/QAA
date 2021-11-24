@@ -55,7 +55,6 @@
  * column matrix based on kernel, padding, dilation, and offset.
  * These functions are mainly used in deformable convolution operators.
  * \ref: https://arxiv.org/abs/1703.06211
- * \author Yuwen Xiong, Haozhi Qi, Jifeng Dai, Xizhou Zhu, Han Hu, Dazhi Cheng
  */
 
 // modify from https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch/blob/mmdetection/mmdet/ops/dcn/src/deform_conv_cuda_kernel.cu

@@ -3,7 +3,6 @@
  * Licensed under The MIT License [see LICENSE for details]
  * \file deformable_psroi_pooling.cu
  * \brief
- * \author Yi Li, Guodong Zhang, Jifeng Dai
 */
 /***************** Adapted by Charles Shang *********************/
 // modify from https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch/blob/mmdetection/mmdet/ops/dcn/src/cuda/deform_psroi_pooling_cuda.cu

@@ -45,7 +45,7 @@ class QueryParser(object):
 
 def moduleTest():
     # retrieve the questions
-    ROOT = "/home/yifeng/Desktop/ekvqa/codes/"
+    ROOT = "/ROOT_dir/"
     listText = "tmp/misc/querylist.txt"
     # # load question
     questions = []
